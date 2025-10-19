@@ -17,7 +17,7 @@ It exposes a `/me` endpoint that returns my profile and a random cat fact.
 {
   "status": "success",
   "user": {
-    "email": "abayomidavidolamide@gmail.com",
+    "email": "yomidave1@gmail.com",
     "name": "Abayomi David Olamide",
     "stack": "Python/FastAPI"
   },
